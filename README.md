@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Om Wadghule
+- 👀 I’m interested in cyber security
+- 🌱 I’m currently learning java
