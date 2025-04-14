@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Om Wadghule
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning java
+- 👀 Pursuing IT Engineering
+- 🌱 Linkedin - www.linkedin.com/in/om-wadghule-2005id
