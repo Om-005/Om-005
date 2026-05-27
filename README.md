@@ -67,9 +67,9 @@ const Om = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Om-005&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats-steel-seven.vercel.app/api?username=Om-005&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&include_all_commits=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om-005&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
+<img height="180em" src="github-readme-stats-steel-seven.vercel.app/api/top-langs/?username=Om-005&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
 
 </div>
 
@@ -86,11 +86,11 @@ const Om = {
 <div align="center">
 
 <a href="https://github.com/Om-005/weather-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Om-005&repo=weather-app&theme=github_dark&hide_border=true&bg_color=161b22&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
+  <img align="center" src="https://github-readme-stats-steel-seven.vercel.app/api/pin/?username=Om-005&repo=weather-app&theme=github_dark&hide_border=true&bg_color=161b22&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
 </a>
 &nbsp;
 <a href="https://github.com/Om-005/ProgressTrackingSystem">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Om-005&repo=ProgressTrackingSystem&theme=github_dark&hide_border=true&bg_color=161b22&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
+  <img align="center" src="https://github-readme-stats-steel-seven.vercel.app/api/pin/?username=Om-005&repo=ProgressTrackingSystem&theme=github_dark&hide_border=true&bg_color=161b22&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
 </a>
 
 </div>
