@@ -90,12 +90,13 @@ const Om = {
 
 <!-- Manual project cards using shields badges - always work! -->
 
-### 🌤️ Weather App
+### 💰 CashTrack
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/Om-005/weather-app)
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/Om-005/cashtrack)
 
-A weather application with a clean UI built with HTML & CSS.
+A personal finance tracker to manage and monitor your cash flow.
 
 ---
 
