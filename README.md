@@ -19,7 +19,7 @@
   </a>
   &nbsp;
   <a href="https://github.com/Om-005">
-    <img src="https://img.shields.io/github/followers/Om-005?label=Followers&style=flat-square&color=58a6ff&labelColor=1a1a2e" />
+    <img src="https://img.shields.io/badge/GitHub-Om--005-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -48,7 +48,6 @@ const Om = {
 
 <div align="center">
 
-<!-- Languages -->
 **Languages**
 
 <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,python&theme=dark" />
@@ -67,15 +66,19 @@ const Om = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-steel-seven.vercel.app/api?username=Om-005&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&include_all_commits=true&count_private=true" />
+<!-- Profile Summary Cards - no token needed -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Om-005&theme=github_dark" width="100%" />
 
-<img height="180em" src="github-readme-stats-steel-seven.vercel.app/api/top-langs/?username=Om-005&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
+<br/>
 
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Om-005&theme=github_dark" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Om-005&theme=github_dark" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Om-005&theme=github_dark" width="32%" />
 
-<div align="center">
+<br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Om-005&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff" />
+<!-- Streak Stats -->
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Om-005&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff" />
 
 </div>
 
@@ -85,13 +88,22 @@ const Om = {
 
 <div align="center">
 
-<a href="https://github.com/Om-005/weather-app">
-  <img align="center" src="https://github-readme-stats-steel-seven.vercel.app/api/pin/?username=Om-005&repo=weather-app&theme=github_dark&hide_border=true&bg_color=161b22&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
-</a>
-&nbsp;
-<a href="https://github.com/Om-005/ProgressTrackingSystem">
-  <img align="center" src="https://github-readme-stats-steel-seven.vercel.app/api/pin/?username=Om-005&repo=ProgressTrackingSystem&theme=github_dark&hide_border=true&bg_color=161b22&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
-</a>
+<!-- Manual project cards using shields badges - always work! -->
+
+### 🌤️ Weather App
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/Om-005/weather-app)
+
+A weather application with a clean UI built with HTML & CSS.
+
+---
+
+### 📚 StudyFlow — Progress Tracking System
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/Om-005/ProgressTrackingSystem)
+
+A study progress tracking system to help students stay on track.
 
 </div>
 
